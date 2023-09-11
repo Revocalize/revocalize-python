@@ -3,7 +3,6 @@
 [![Discord](https://badgen.net/badge/black/revocalize/icon?icon=discord&label)](https://discord.gg/revocalize)
 [![Twitter](https://badgen.net/badge/black/revocalize/icon?icon=twitter&label)](https://twitter.com/revocalize)
 [![PyPI - Python Version](https://img.shields.io/pypi/v/elevenlabs?style=flat&colorA=black&colorB=black)](https://pypi.org/project/elevenlabs/)
-[![Downloads](https://static.pepy.tech/personalized-badge/revocalize?period=total&units=international_system&left_color=black&right_color=black&left_text=Downloads)](https://pepy.tech/project/revocalize)
 
 The official Python API for [Revocalize.AI](https://www.revocalize.ai/) voice generation software. Revocalize creates & trains studio-quality AI voices in one-click – or you can choose from our officially licensed AI voice models.
 
